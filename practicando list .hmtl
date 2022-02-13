@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title> Hola esto es para practictar list
+  </title>
+</head>
+<body>
+  <h1> Unorder list  para rama</h1>
+  <div>
+
+    Una lista donde ordenaremos  las deficiencias de rama sin ordenaremos
+  <ul>
+  <li>su actitud </li>
+  <li>  su apariencia</li>
+  <li>  su aliento </li>
+  <li> su cuerpe, que es:
+      <ul>
+      <li>gordo</li>
+      <li>pelado</li>
+      <li>petiso</li>
+      <li>cara feico</li>
+    </ul>
+      </li>
+      <li> sus pezones </li>
+    </ul>
+  </div>
+</body>
+</hmtl>
