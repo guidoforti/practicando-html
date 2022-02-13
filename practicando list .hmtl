@@ -6,7 +6,7 @@
   </title>
 </head>
 <body>
-  <h1> Unorder list  para rama</h1>
+  <h3> Unorder list  para rama</h3>
   <div>
 
     Una lista donde ordenaremos  las deficiencias de rama sin ordenaremos
@@ -26,7 +26,7 @@
     </ul>
   </div>
 <div>
-<h1> Order list para rama </h1>
+<h3> Order list para rama </h3>
   esta es una lista ordenada en donde numerare las cosas que le haria si lo tuviese en frente, paso a paso
 <ol>
 <li>lo escupo</li>
